@@ -1,23 +1,23 @@
 [
   {
-    "Author": "NightmareXIV（開發者），HKazuki0818（修改與維護）",
+    "Author": "NightmareXIV(開發者), HKazuki0818(修改與維護)",
     "Name": "AntiAfkKick",
-    "InternalName": "AntiAfkKick-Dalamud",
+    "InternalName": "AntiAfkKick",
     "AssemblyVersion": "2.1.0.10",
     "Description": "這是一款可以防止玩家因長時間無任何遊戲操作，而被系統自動踢出《Final Fantasy XIV》的輔助插件。\n安裝後即可立即生效，無需任何額外設定，輕鬆使用無負擔。",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/HKazuki0818/AntiAfkKick",
+    "RepoUrl": "https://github.com/kazukicorp/AntiAfkKick",
     "DalamudApiLevel": 12,
     "LoadRequiredState": 0,
     "LoadSync": false,
     "CanUnloadAsync": false,
     "LoadPriority": 0,
-    "IconUrl": "https://raw.githubusercontent.com/HKazuki0818/AntiAfkKick/master/AntiAfkKick-Dalamud/images/icon.png",
+    "IconUrl": "https://raw.githubusercontent.com/kazukicorp/AntiAfkKick/main/AntiAfkKick/images/icon.png",
     "Punchline": "這是一款可以防止玩家因長時間無任何遊戲操作，而被系統自動踢出遊戲的輔助插件。",
     "AcceptsFeedback": true,
-    "DownloadLinkInstall": "https://github.com/HKazuki0818/AntiAfkKick/releases/download/2.1.0.10/latest.zip",
-    "DownloadLinkTesting": "https://github.com/HKazuki0818/AntiAfkKick/releases/download/2.1.0.10/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/HKazuki0818/AntiAfkKick/releases/download/2.1.0.10/latest.zip"
+    "DownloadLinkInstall": "https://github.com/kazukicorp/AntiAfkKick/releases/download/2.1.0.10/latest.zip",
+    "DownloadLinkTesting": "https://github.com/kazukicorp/AntiAfkKick/releases/download/2.1.0.10/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/kazukicorp/AntiAfkKick/releases/download/2.1.0.10/latest.zip"
   },
   {
     "Author": "SheepGoMeh（開發者），HKazuki0818（修改與維護）",
